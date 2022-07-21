@@ -1,0 +1,2 @@
+Haroon,1,Global payment ,Marketing,Junior,Staff,7,0,16,0
+Test2,3,Per hour payment,Human Resources,Senior,Manager,9,0,17,0
